@@ -1,0 +1,9 @@
+div{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  align-self: stretch;
+  margin-top: 3em;
+}
