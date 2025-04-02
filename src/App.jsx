@@ -7,7 +7,7 @@ function App() {
 
     const fetchQuote = async () => {
         try {
-            const response = await fetch("http://localhost:5000/random-quote");
+            const response = await fetch("https://server-7a3r.onrender.com/random-quote");
             const data = await response.json();
             setQuote(`${data[0].q}`); // Extract quote
             setAuthor(`${data[0].a}`);
