@@ -38,7 +38,7 @@ A **fullstack random quote generator** built with **React (frontend)** and **Nod
 ---
 
 ## 🚀 Deployment Links
-- **Frontend:** [Live Here](fullstack-mini-project.vercel.app)
+- **Frontend:** [Live Here](https://fullstack-mini-project.vercel.app/)
 - **Backend:** [Live Here](https://server-7a3r.onrender.com/random-quote)
 
 ---
